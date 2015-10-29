@@ -1,0 +1,111 @@
+/* http://meyerweb.com/eric/tools/css/reset/
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+/*
+----
+ Custom styles
+---
+*/
+
+body {
+  font-size: 16px;
+  font-family: "Century Gothic", Arial, sans-serif;
+  line-height: 22px;
+  margin-left: 40px;
+  margin-right: 40px;
+
+}
+header {
+  text-align: center;
+}
+
+h1, h2 {
+  color: #900C3F;
+}
+h1 {
+  font-family: "Tahoma", Geneva, sans-serif;
+  font-weight: bold;
+  font-size: 34px;
+  line-height: 20px;
+  margin-bottom: 20px;
+  margin-top: 40px;
+
+}
+h2 {
+  font-size: 28px;
+  margin-bottom: 20px;
+  margin-top: 10px;
+}
+h3 {
+  color: #C70039;
+  font-size: 20px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  font-style: italic;
+}
+.intro p{
+  background: #DAF7A6;
+}
+ul {
+  list-style-type: circle;
+  margin-left: 30px;
+}
+.gif {
+	margin-top: 40px;
+}
+.panel {
+	color: #FF5733;
+	font-size: 34px;
+	font-style: italic;
+	text-align: center;
+	background:#581845;
+	height: 160px;
+}
+.panel p {
+	text-align: center;
+}

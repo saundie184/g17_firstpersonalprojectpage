@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Saundie Weiss</title>
+  <link rel="stylesheet" href="personalproject.css">
+
+</head>
+<header>
+<h1>Saundie Weiss</h1>
+<nav>
+<a href="saundieSite.html">Home</a>
+  <a href="page2.html">Starting gSchool</a>
+</nav>
+</header>
+<div class = "intro">
+  <body>
+    <section>
+  <h2>About me</h2>
+      <p>I am Texas-raised but Colorado-born. I grew up in Plano, Texas, a large suberb of Dallas. I spent my summers
+    in Estes Park, which explains why I've always loved the mountains. After communting in Dallas traffic for year,
+  I left my job and the lovely tollroads and moved to Colorado. I've never looked back.
+  </p>
+  <h3>Common questions I get asked</h3>
+  <p>
+    <ul>
+      <li>Do you miss Texas?</li>
+      <li>
+        Where's your accent?
+      </li>
+      <li>
+        Where does your name come from?
+      </li>
+    </ul>
+  </p>
+  </section>
+  <section>
+  <h2>Who I am</h2>
+    <h3>My real name is...Cassandra</h3>
+    <p>I have an older brother and younger sister. Being the middle child has it's advantages. For instance,
+      I could pick which one to side with and we would gang up on the other (usually my sis and I teamed up against my bro).
+
+  </p>
+  </section>
+  <section>
+    <h2>What I like to do</h2>
+    <h3>Hobbies</h3>
+    <p>I love being outdoors. My favorite things to do are running, hiking and traveling. I also enjoy writing and calligraphy. I love
+    great stories, so reading and watching movies make my list.
+  </p>
+
+  </section>
+  </body>
+</div>
+</html>
