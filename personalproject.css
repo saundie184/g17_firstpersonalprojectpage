@@ -2,7 +2,7 @@
    v2.0 | 20110126
    License: none (public domain)
 */
-
+/*
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -23,7 +23,8 @@ time, mark, audio, video {
 	font: inherit;
 	vertical-align: baseline;
 }
-/* HTML5 display-role reset for older browsers */
+HTML5 display-role reset for older browsers */
+/*
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;
@@ -63,10 +64,6 @@ body {
 header {
   text-align: center;
 }
-
-h1, h2 {
-  color: #900C3F;
-}
 h1 {
   font-family: "Tahoma", Geneva, sans-serif;
   font-weight: bold;
@@ -74,12 +71,13 @@ h1 {
   line-height: 20px;
   margin-bottom: 20px;
   margin-top: 40px;
-
+	color: #900C3F;
 }
 h2 {
   font-size: 28px;
   margin-bottom: 20px;
   margin-top: 10px;
+	color: #900C3F;
 }
 h3 {
   color: #C70039;
@@ -88,12 +86,17 @@ h3 {
   margin-top: 10px;
   font-style: italic;
 }
-.intro p{
+body p {
   background: #DAF7A6;
+	padding:1em;
 }
-ul {
+.column {
+	margin: 5%;
+}
+ul{
   list-style-type: circle;
-  margin-left: 30px;
+	background: #DAF7A6;
+	padding:2em;
 }
 .gif {
 	margin-top: 40px;
@@ -105,7 +108,8 @@ ul {
 	text-align: center;
 	background:#581845;
 	height: 160px;
+	margin-left: 50%;
 }
-.panel p {
-	text-align: center;
+.panel span{
+	padding-top: 2em;
 }
